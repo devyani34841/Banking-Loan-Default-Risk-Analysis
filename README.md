@@ -299,12 +299,7 @@ The Power BI dashboard can be opened using Power BI Desktop.
 
 ## Author
 
-**Dipti Mimansha**
+**Devyani Deore**
 
 Data Analytics | Statistics | Python | SQL | Power BI
 
----
-
-## Disclaimer
-
-This project is intended for educational and portfolio purposes. The analysis and recommendations should not be interpreted as actual banking credit-policy decisions.
